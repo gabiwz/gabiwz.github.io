@@ -162,7 +162,7 @@ div {
   margin-bottom: 30px;
 }
 #sidebar .widget .widget-title {
-  color: #e67e22;
+  color: #99cc33;
   line-height: 2.7;
   margin-top: 0;
   font-size: 16px;
@@ -516,6 +516,7 @@ div {
   padding-bottom: 0.8em;
 }
 .post-archive h2 {
+  color: #303030;
   margin: 0;
   font: bold 25px/1.1 "ff-tisa-web-pro", Cambria, "Times New Roman", Georgia, Times, sans-serif;
 }
@@ -990,7 +991,7 @@ pre {
   padding-left: 0.3em;
 }
 .readmore a:hover {
-  background: #303030;
+  background: #9c3;
 }
 
 /* syntax highlight*/
@@ -1901,4 +1902,23 @@ html[data-dark=true] img {
   white-space: nowrap;
   text-overflow: ellipsis;
   overflow: hidden;
+}
+
+.self-p {
+  text-align: center;
+}
+
+.self-icon {
+  color: #e67e22;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+  background-image: -webkit-linear-gradient(left, #cddc39, #e67e22 25%, #cddc39 50%, #e67e22 75%, #cddc39) !important;
+  -webkit-text-fill-color: transparent !important;
+  -webkit-background-clip: text !important;
+  background-size: 200% 100% !important;
+  animation: masked-animation 2s infinite linear !important;
+  font-size: 20px;
+  margin-right: 10px;
+  text-align: center;
 }
