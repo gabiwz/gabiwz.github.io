@@ -1,8 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>杯子</title>
+    <url>gabiwz.github.io/2022/09/15/%E6%9D%AF%E5%AD%90/</url>
+    <content><![CDATA[<p>###我是杯子，来测试的<br>杯子</p>
+]]></content>
+      <categories>
+        <category>生活</category>
+        <category>家具</category>
+        <category>生活用品</category>
+      </categories>
+      <tags>
+        <tag>水</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
-    <url>gabiwz.github.io.git/2022/09/13/hello-world/</url>
+    <url>gabiwz.github.io/2022/09/13/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
 
@@ -19,22 +33,8 @@
 ]]></content>
   </entry>
   <entry>
-    <title>杯子</title>
-    <url>gabiwz.github.io.git/2022/09/15/%E6%9D%AF%E5%AD%90/</url>
-    <content><![CDATA[<p>###我是杯子，来测试的<br>杯子</p>
-]]></content>
-      <categories>
-        <category>生活</category>
-        <category>家具</category>
-        <category>生活用品</category>
-      </categories>
-      <tags>
-        <tag>水</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>测试文章</title>
-    <url>gabiwz.github.io.git/2022/09/15/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
+    <url>gabiwz.github.io/2022/09/15/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
     <content><![CDATA[<p>###我是测试文章<br>没想到2022年的第一篇日志是这样的内容。在忠心耿耿地隔墙使用了Disqus评论系统好几年之后，终于心血来潮打算换一个对国内访客更为友好的评论系统了，之前Disqus的门槛对普通网友来说属实有点高。调查了解了一圈之后发现静态博客用Valine系（包括Valine，Mini-Valine和Waline等）的评论系统较为主流，因此最终选定了Waline：一是由于支持的部署平台较多；二是因为作者的更新维护目前还很活跃（在此要感谢主要作者怡红公子大佬的倾情奉献和无私帮助）；三是官方提供了很方便的数据迁移工具。最终我将其部署在了腾讯云的CloudBase，再加上Hexo网页托管在他家的CDN+COS，相当于良心云全家桶……</p>
 <p>决定更换之后便着手操作，最令人难受的是现在Disqus导出的数据中不包括Email地址了，这就势必导致迁移后将无法显示所有评论者的Gravatar头像。想起了当年从多说迁移到Disqus时就曾经丢失过一些信息，而现在面临的可能又会是一次大舍弃。于是不肯就此妥协的我开始手动改写导出的包含2000多条评论的数据文件，将一些相熟或经常评论的老朋友的Email地址一一添加了进去，而Email地址则来源于从躺尸于邮箱中很久的多说导出数据中检索，甚至是自行去评论者的主页或互联网上寻找，着实是非常蛋疼的办法和不小的工作量。然而在不断搜索和翻找的过程中，也顺便浏览了几乎所有从前的文章和评论。翻阅着十多年来的点滴记录，当时的心情仍历历在目，许多往事又浮上心头，还有一些在生命中出现又远去的过客面孔。此去经年，物是人非，愿所有人一切都好。新年快乐。</p>
 <p>PS: 如果你曾多次在本站评论，可以继续在此留言，我很乐意在后台数据中为之前出现过的昵称补上邮箱以显示Libravatar&#x2F;Gravatar头像。</p>
@@ -48,7 +48,7 @@
   </entry>
   <entry>
     <title>测试文章</title>
-    <url>gabiwz.github.io.git/2022/09/16/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A02/</url>
+    <url>gabiwz.github.io/2022/09/16/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A02/</url>
     <content><![CDATA[<p>测试文章2</p>
 ]]></content>
       <categories>
@@ -60,7 +60,7 @@
   </entry>
   <entry>
     <title>测试文章</title>
-    <url>gabiwz.github.io.git/2022/09/15/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A03/</url>
+    <url>gabiwz.github.io/2022/09/15/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A03/</url>
     <content><![CDATA[<p>测试文章3</p>
 ]]></content>
       <categories>
@@ -72,25 +72,25 @@
   </entry>
   <entry>
     <title></title>
-    <url>gabiwz.github.io.git/2022/09/19/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A04/</url>
+    <url>gabiwz.github.io/2022/09/19/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A04/</url>
     <content><![CDATA[<p>测试文章4</p>
 ]]></content>
   </entry>
   <entry>
     <title></title>
-    <url>gabiwz.github.io.git/2022/09/19/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A05/</url>
+    <url>gabiwz.github.io/2022/09/19/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A05/</url>
     <content><![CDATA[<p>测试文章5</p>
 ]]></content>
   </entry>
   <entry>
     <title></title>
-    <url>gabiwz.github.io.git/2022/09/19/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A06/</url>
+    <url>gabiwz.github.io/2022/09/19/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A06/</url>
     <content><![CDATA[<p>测试文章6<br>测试文章6</p>
 ]]></content>
   </entry>
   <entry>
     <title></title>
-    <url>gabiwz.github.io.git/2022/09/19/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A07/</url>
+    <url>gabiwz.github.io/2022/09/19/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A07/</url>
     <content><![CDATA[<p>测试文章7</p>
 ]]></content>
   </entry>
