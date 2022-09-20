@@ -71,27 +71,51 @@
       </tags>
   </entry>
   <entry>
-    <title></title>
-    <url>/2022/09/19/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A04/</url>
+    <title>测试文章</title>
+    <url>/2022/09/18/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A04/</url>
     <content><![CDATA[<p>测试文章4</p>
 ]]></content>
+      <categories>
+        <category>文章</category>
+      </categories>
+      <tags>
+        <tag>文章</tag>
+      </tags>
   </entry>
   <entry>
-    <title></title>
+    <title>测试文章5</title>
     <url>/2022/09/19/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A05/</url>
     <content><![CDATA[<p>测试文章5</p>
 ]]></content>
+      <categories>
+        <category>文章</category>
+      </categories>
+      <tags>
+        <tag>文章</tag>
+      </tags>
   </entry>
   <entry>
-    <title></title>
-    <url>/2022/09/19/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A06/</url>
+    <title>测试文章6</title>
+    <url>/2022/09/15/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A06/</url>
     <content><![CDATA[<p>测试文章6<br>测试文章6</p>
 ]]></content>
+      <categories>
+        <category>文章</category>
+      </categories>
+      <tags>
+        <tag>文章</tag>
+      </tags>
   </entry>
   <entry>
-    <title></title>
-    <url>/2022/09/19/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A07/</url>
+    <title>测试文章7</title>
+    <url>/2022/09/15/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A07/</url>
     <content><![CDATA[<p>测试文章7</p>
 ]]></content>
+      <categories>
+        <category>文章</category>
+      </categories>
+      <tags>
+        <tag>文章</tag>
+      </tags>
   </entry>
 </search>
