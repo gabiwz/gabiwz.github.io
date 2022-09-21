@@ -1922,3 +1922,18 @@ html[data-dark=true] img {
   margin-right: 10px;
   text-align: center;
 }
+
+/*最近评论*/
+#sidebar .widget ul li {
+    margin: 5px 0;
+    line-height: 1.5;
+}
+.waline-comment-content {
+    margin: 6px;
+    padding: 6px;
+    border-radius: 6px;
+}
+.waline-comment-content-author {
+    text-align: end;
+    margin-bottom: 6px;
+}
