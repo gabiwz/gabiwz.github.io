@@ -1922,3 +1922,22 @@ html[data-dark=true] img {
   margin-right: 10px;
   text-align: center;
 }
+
+.waline-comment-content {
+  margin: 6px;
+  padding: 6px;
+  border-radius: 6px;
+}
+
+.waline-comment-content p {
+  margin: 0;
+  display: -webkit-box;
+  overflow: hidden;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+}
+
+.waline-comment-content-author {
+  text-align: end;
+  margin-bottom: 6px;
+}
